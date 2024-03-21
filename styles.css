@@ -1,0 +1,17 @@
+.format, pre, body {
+  font-family: Arial, Sans-Serif;
+  text-align: center;
+}
+
+a:link, a:visited {
+  color: #0000ee;
+  text-decoration: none;
+}
+
+pre {
+  line-height: 1.5;
+}
+
+.spacing {
+  line-height: 2.0;
+}
