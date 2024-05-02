@@ -1,15 +1,27 @@
-.format, pre, body {
-  font-family: Arial, Sans-Serif;
+html, body {
+  font-family: Arial,Sans-Serif;
   text-align: center;
+  padding: 10px;
 }
 
 a:link, a:visited {
   color: #0000ee;
   text-decoration: none;
+  font-size: 15pt;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+p {
+  line-height: 1.5;
 }
 
 pre {
-  line-height: 1.5;
+  line-height: 2.0;
+  font-family: Arial,Sans-Serif;
 }
 
 .spacing {
